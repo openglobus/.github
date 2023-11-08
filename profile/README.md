@@ -1,6 +1,4 @@
 # OpenGlobus
-<!-- markdownlint-disable MD033 -->
-<p><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opengitops/icon/color/opengitops-icon-color.svg" alt="OpenGitOps logo icon color" width="150"></p>
 
 Welcome!
 
